@@ -14,11 +14,7 @@ The famous snake and ladder (chutes and ladder) game made using Unity Engine.
 
 ## Installation
 
-OS X & Linux:
-
-
 Windows:
-
 
 ## Usage example
 
